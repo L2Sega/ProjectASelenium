@@ -3,7 +3,7 @@ require 'selenium-webdriver'
 require 'cucumber'
 
 Before do
-  $driver = Selenium::WebDriver.for :chrome
+  $driver = Selenium::WebDriver.for :firefox
   $mainurl = "http://www.petsmart.com/"
   $driver.get $mainurl
   #$driver.manage.window.maximize

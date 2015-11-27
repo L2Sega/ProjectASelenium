@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RubymineProjects/My project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RubymineProjects/Ruby training" vcs="Git" />
   </component>
 </project>
 

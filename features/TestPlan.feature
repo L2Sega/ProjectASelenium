@@ -47,28 +47,30 @@ Feature: Test plan sample
     Then Click on YouTube icon
     Then Verify navigation to YouTube
 
-#  Scenario: Main page functionality - upcoming events wrapper
-#    Then Print out all upcoming events in wrapper
-#
-#  Scenario: Main page functionality - search - valid search
-#    Then In search type "smth valid"
-#    Then Check that some results returned
-#
-#  Scenario: Main page functionality - search - invalid search
-#    Then In search type "smth invalid"
-#    Then Check that no results returned (or some message)
-#
-#  Scenario: Main page functionality - pet services wrapper
-#    Then in Pet service click on each item and verify that all promo messages are different
-#
-#  Scenario: Dog - Food and health - Brands
-#    Then In "Dog" menu go to "Food & health"
-#    Then In "Featured Brands" check that each brand navigates to the page with brand specific items
-#
-#  Scenario: Dog - Food and health - top categories
-#    Then In "Dog" menu go to "Food & health"
-#    Then Check that each link in "Top Categories" works
-#
+  #9
+  Scenario: Main page functionality - search - valid search
+    Then In search type Food
+    Then Check that Food returned
+
+  #10
+  Scenario: Main page functionality - search - invalid search
+    Then In search type crocodile
+    Then Check that no results returned or some message
+
+  #11
+  Scenario: Main page functionality - pet services wrapper
+    Then in Pet service click on each item and verify that all promo messages are different
+
+  #12
+  Scenario: Dog - Food and health - Brands
+    Then Click Dog menu
+    Then In "Featured Brands" check that each brand navigates to the page with brand specific items
+
+  #13
+  Scenario: Dog - Food and health - top categories
+    Then Click Dog menu
+    Then Check that each link in "Top Categories" works
+
 #  Scenario: Dog - Food - see 200 items verification
 #    Then In "Dog" menu go to "Food"
 #    Then Click "View 200 Items"
