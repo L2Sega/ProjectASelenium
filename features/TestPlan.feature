@@ -71,40 +71,50 @@ Feature: Test plan sample
     Then Click Dog menu
     Then Check that each link in "Top Categories" works
 
-#  Scenario: Dog - Food - see 200 items verification
-#    Then In "Dog" menu go to "Food"
-#    Then Click "View 200 Items"
-#    Then Check that 200 items displayed
+  #14
+  Scenario: Dog - Food - see 200 items verification
+    Then In Dog menu go to Food
+    Then Click View 200 Items
+    Then Check that 200 items displayed
+
+  #15
+  Scenario: Dog - Food - pagination verification
+    Then In Dog menu go to Food
+    Then Go through all pages and print out all given items
+
+  #16
+  Scenario: Dog - Food - sorting - price high to low
+    Then In Dog menu go to Food
+    Then Set sorting to Price: High to Low
+    Then Verify selected item
+    Then Verify correct sorting hightolow
+
+  #17
+  Scenario: Dog - Food - sorting - price low to high
+    Then In Dog menu go to Food
+    Then Set sorting to Price: Low to High
+    Then Verify selected item
+    Then Verify correct sorting lowtohigh
+
+  #18
+  Scenario: Dog - Food - sorting - top rated
+    Then In Dog menu go to Food
+    Then Set sorting to Top Rated
+    Then Verify selected item
+    Then Verify correct sorting
+
+  #19
+  Scenario: Dog - Food - sorting - best sellers
+    Then In Dog menu go to Food
+    Then Set sorting to Best Sellers
+    Then Verify selected item
 #
-#  Scenario: Dog - Food - pagination verification
-#    Then In "Dog" menu go to "Food"
-#    Then Go through all pages and print out all given items
-#
-#  Scenario: Dog - Food - sorting - price high to low
-#    Then In "Dog" menu go to "Food"
-#    Then Set sorting to "price high to low"
-#    Then Verify correct sorting
-#
-#  Scenario: Dog - Food - sorting - price low to high
-#    Then In "Dog" menu go to "Food"
-#    Then Set sorting to "price low to high"
-#    Then Verify correct sorting
-#
-#  Scenario: Dog - Food - sorting - top rated
-#    Then In "Dog" menu go to "Food"
-#    Then Set sorting to "top rated"
-#    Then Verify correct sorting
-#
-#  Scenario: Dog - Food - sorting - best sellers
-#    Then In "Dog" menu go to "Food"
-#    Then Set sorting to "best sellers"
-#    Then Verify correct sorting
-#
-#  Scenario: Dog - Food - sorting - new arrivals
-#    Then In "Dog" menu go to "Food"
-#    Then Set sorting to "new arrivals"
-#    Then Verify correct sorting
-#
+  #20
+  Scenario: Dog - Food - sorting - new arrivals
+    Then In Dog menu go to Food
+    Then Set sorting to New Arrivals
+    Then Verify selected item
+
 #  Scenario: Dog - Food - filter - Brand
 #    Then In "Dog" menu go to "Food"
 #    Then Set filter for "Brand"
