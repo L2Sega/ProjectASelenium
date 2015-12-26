@@ -1,3 +1,4 @@
+#1
 Then /^Check that menu item ([^"]*) contains submenus$/ do |x|
   element = $driver.find_element :xpath => "//a[./span[@class = 'ws-category-title' and text() = '#{x}']]"
   $driver.mouse.move_to element
@@ -9,6 +10,7 @@ Then /^Check that menu item ([^"]*) contains submenus$/ do |x|
   end
 end
 
+#2
 Then /^Check footer menu ([^"]*) with items$/ do |x|
   element = $driver.find_elements :xpath => "//div[contains(@class, 'footer-links')][position() > 1][.//h3[text() = '#{x}']]//a"
   if element.empty?
@@ -18,6 +20,7 @@ Then /^Check footer menu ([^"]*) with items$/ do |x|
   end
 end
 
+#3-8
 Then /^Click on ([^"]*) icon$/ do |x|
   element = $driver.find_element :xpath => "//a[text() = '#{x}']"
   element.click
@@ -28,6 +31,7 @@ Then /^Verify navigation to ([^"]*)$/ do |x|
   assert $driver.title.include?("#{x}")
 end
 
+#9
 Then /^In search type ([^"]*)$/ do |x|
   search = $driver.find_element(:id, "searchForm")
   search.send_keys x
@@ -47,6 +51,7 @@ Then /^Check that ([^"]*) returned$/ do |x|
   end
 end
 
+#10
 Then /^Check that no results returned or some message$/ do
   items = $driver.find_elements(:xpath, "//h1[@class = 'ws-heading']")
   for i in items do
@@ -58,6 +63,7 @@ Then /^Check that no results returned or some message$/ do
   end
 end
 
+#11
 Then /^in Pet service click on each item and verify that all promo messages are different$/ do
   elements = $driver.find_elements(:xpath, "//div[@id = 'services-pagination']/div[contains(@class, 'owl-page')]")
   array_of_messages = []
@@ -76,6 +82,7 @@ Then /^in Pet service click on each item and verify that all promo messages are 
   end
 end
 
+#12
 Then /^Click ([^"]*) menu$/ do |x|
   element = $driver.find_element :xpath => "//li[@class = 'ws-common-list-item pet-main-nav-item-level1']//span[@class = 'ws-category-title' and text() = 'Dog']"
   element.click
@@ -104,6 +111,7 @@ Then /^In "Featured Brands" check that each brand navigates to the page with bra
   end
 end
 
+#13
 Then /^Check that each link in "Top Categories" works$/ do
   categories = $driver.find_elements(:xpath, "//div[./div[contains(@class, 'tiny clearfix')]][position() < 3]//img")
   n = 1
@@ -123,6 +131,7 @@ Then /^Check that each link in "Top Categories" works$/ do
   end
 end
 
+#14
 Then /^In ([^"]*) menu go to ([^"]*)$/ do |x, y|
   element1 = $driver.find_element :xpath => "//a[./span[@class = 'ws-category-title' and text() = '#{x}']]"
   $driver.mouse.move_to element1
@@ -145,29 +154,15 @@ Then /^Check that 200 items displayed$/ do
   end
 end
 
-def print_items
-  elements = $driver.find_elements :xpath => ""+$listofgoods+""
-  if elements.empty?
-    raise 'No element in your submenu'
-  else
-    puts elements.map {|x| x.text}
-  end
-end
-
-def listing(start, pages, except) # start - start of cycle; pages - array contains pages; except - exclude ranges(e.g. 11-20)
-  for i in start..pages.count-except do
-    pages = $driver.find_elements(:xpath, ""+$listofpages+"")
-    pages[i].click
-    sleep 2
-    print_items
-  end
-end
-
+#15
 Then /^Go through all pages and print out all given items$/ do
+  # Before loop we need click on the second page
   pages = $driver.find_elements(:xpath, ""+$listofpages+"")
   print_items
   pages[0].click
   print_items
+
+  # Separate pagination on a blocks where each block include range of pages e.g. [1-10], [11-17], etc.
   listing(3, pages, 4)
   listing(3, pages, 3)
   listing(4, pages, 2)
@@ -175,36 +170,7 @@ Then /^Go through all pages and print out all given items$/ do
   listing(6, pages, 5)
 end
 
-#pages = $driver.find_elements(:xpath, "(//ul[@class = 'ws-product-listing-pagination-list'])[position() < 2]/li/a[.//span]")
-#n = 2
-#for i in pages do
-#  pages = $driver.find_element(:xpath, "((//ul[@class = 'ws-product-listing-pagination-list'])[position() < 2]/li/a[.//span])[text() = '"+n.to_s+"']")
-#  pages.click
-#  n += 1
-#end
-#====================================
-#for i in 1..numpages-4 do
-#  pages = $driver.find_elements(:xpath, "(//ul[@class = 'ws-product-listing-pagination-list'])[position() < 2]/li/a")
-#  pages[i].click
-#end
-#for i in 3..numpages-3 do
-#  pages = $driver.find_elements(:xpath, "(//ul[@class = 'ws-product-listing-pagination-list'])[position() < 2]/li/a")
-#  pages[i].click
-#end
-#for i in 4..numpages-2 do
-#  pages = $driver.find_elements(:xpath, "(//ul[@class = 'ws-product-listing-pagination-list'])[position() < 2]/li/a")
-#  pages[i].click
-#end
-#for i in 5..numpages-1 do
-#  pages = $driver.find_elements(:xpath, "(//ul[@class = 'ws-product-listing-pagination-list'])[position() < 2]/li/a")
-#  pages[i].click
-#end
-#for i in 6..numpages do
-#  pages = $driver.find_elements(:xpath, "(//ul[@class = 'ws-product-listing-pagination-list'])[position() < 2]/li/a")
-#  pages[i].click
-#end
-
-#Scenario 16-17
+#Scenario 16-20
 Then /^Set sorting to ([^"]*)$/ do |item|
   droplist = $driver.find_element(:xpath, "(//select[@name = 'SortingAttribute'])[1]")
   sel_drop = Selenium::WebDriver::Support::Select.new(droplist)
@@ -217,23 +183,7 @@ Then /^Verify selected item$/ do
   sel_drop.first_selected_option.text
 end
 
-def sorting(array, high, low)
-  for i in 1..array.count-1 do
-    if high == TRUE
-      if array[i] <= array[i-1]
-        next
-      else raise "Sorting hightolow is not correct"
-      end
-    elsif low == TRUE
-      if array[i] >= array[i-1]
-        next
-      else raise "Sorting lowtohigh is not correct "
-      end
-    end
-  end
-end
-
-Then /^Verify correct sorting ([^"]*)$/ do |x|
+Then /^Verify correct pricesorting ([^"]*)$/ do |x|
   page = $driver.find_element(:xpath, "(//ul[@class = 'ws-product-listing-pagination-list'])[1]/li[contains(@class, 'next-page')]")
   while page.displayed? do
     prices =  $driver.find_elements(:xpath, "//ul[contains(@class, 'ws-product-list pet-product')]//div[contains(@class, 'price')]/span[contains(@class, 'price-temporary')]")
@@ -243,9 +193,9 @@ Then /^Verify correct sorting ([^"]*)$/ do |x|
     end
     puts array
     if "#{x}" == "hightolow"
-      sorting(array, true, 0)
+      sorting_price(array, true, 0)
     elsif "#{x}" == "lowtohigh"
-      sorting(array, 0, true)
+      sorting_price(array, 0, true)
     end
     page.click
     sleep 2
@@ -253,29 +203,8 @@ Then /^Verify correct sorting ([^"]*)$/ do |x|
   end
 end
 
-#Then /^Verify correct sorting ([^"]*)$/ do |x|
-#prices =  $driver.find_elements(:xpath, "//ul[contains(@class, 'ws-product-list pet-product')]//div[contains(@class, 'price')]/span[contains(@class, 'price-temporary')]")
-#array = []
-#for price in prices do
-#  array.push(price.text.sub!("$ ", "").to_f)
-#end
-#if "#{x}" == "hightolow"
-#  sorting(array, true, 0)
-#elsif "#{x}" == "lowtohigh"
-#  sorting(array, 0, true)
-#end
-#end
-
-#Then /^Next page$/ do
-#  page = $driver.find_element(:xpath, "(//ul[@class = 'ws-product-listing-pagination-list'])[1]/li[contains(@class, 'next-page')]")
-#  while page.displayed? do
-#    page.click
-#    sleep 2
-#    page = $driver.find_element(:xpath, "(//ul[@class = 'ws-product-listing-pagination-list'])[1]/li[contains(@class, 'next-page')]")
-#  end
-#end
-
-Then /^Verify correct sorting$/ do
+#18
+Then /^Verify correct rate_sorting$/ do
   page = $driver.find_element(:xpath, "(//ul[@class = 'ws-product-listing-pagination-list'])[1]/li[contains(@class, 'next-page')]")
   while page.displayed? do
     rates =  $driver.find_elements(:xpath, "//ul[contains(@class, 'ws-product-list pet-product')]//div[@class = 'ws-product-rating ']/span")
@@ -284,9 +213,174 @@ Then /^Verify correct sorting$/ do
       array.push(rate.text.to_f)
     end
     puts array
-    sorting(array, true, 0)
+    sorting_price(array, true, 0)
     page.click
     sleep 2
     page = $driver.find_element(:xpath, "(//ul[@class = 'ws-product-listing-pagination-list'])[1]/li[contains(@class, 'next-page')]")
   end
 end
+
+#21-23
+Then /^Set filter for ([^"]*) and select ([^"]*)$/ do |category, subcategory|
+  show_all = $driver.find_element(:xpath, "//div[@class = 'ws-filters ws-section'][.//legend[contains(text(), '"+category+"')]]//a[text() = 'Show all']") rescue false
+  if show_all
+    show_all = $driver.find_element(:xpath, "//div[@class = 'ws-filters ws-section'][.//legend[contains(text(), '"+category+"')]]//a[text() = 'Show all']")
+    show_all.click
+  end
+  sel_sub = $driver.find_element(:xpath, "//div[@class = 'ws-filters ws-section'][.//legend[contains(text(), '"+category+"')]]//li[.//label[contains(text(), '"+subcategory+"')]]/input")
+  sel_sub.click
+end
+
+Then /^Verify correct filtration ([^"]*)$/ do |subcategory|
+  page = $driver.find_element(:xpath, "(//ul[@class = 'ws-product-listing-pagination-list'])[1]/li[contains(@class, 'next-page')]") rescue false
+  if page
+    while page.displayed? do
+      elements = $driver.find_elements(:xpath => ""+$listofgoods+"")
+      verifying_sub(elements, subcategory)
+
+      page.click
+      sleep 2
+      page = $driver.find_element(:xpath, "(//ul[@class = 'ws-product-listing-pagination-list'])[1]/li[contains(@class, 'next-page')]")
+    end
+  end
+  elements = $driver.find_elements(:xpath => ""+$listofgoods+"")
+  verifying_sub(elements, subcategory)
+
+end
+
+#22
+Then /^Verify correct sorting ([^"]*)$/ do |item|
+  array = $driver.find_elements(:xpath, "//li[contains(@data-variation-value, '#{item}')]")
+  for i in array
+    if i.attribute("data-variation-value").include? item
+      puts "ok"
+    else
+      raise "Nooooooooooooooooooooooooooooooooooo"
+    end
+  end
+end
+
+#24
+Then /^Verify correct ([^"]*) sorting$/ do |range|
+  prices = $driver.find_elements(:xpath, "//ul[contains(@class, 'ws-product-list pet-product')]//div[contains(@class, 'price')]/span[contains(@class, 'price-temporary')]")
+  array_of_prices = prices.map{|m| m.text.sub!("$ ", "").to_f}
+  max_min_ranges = range.gsub!("$", "").split(" - ").map(&:to_f)
+  compare_value_and_range(array_of_prices, max_min_ranges)
+end
+
+#25
+Then /^Verify correct ([^"]*) rate_sorting$/ do |range|
+  rates = $driver.find_elements(:xpath, "//ul[contains(@class, 'ws-product-list pet-product')]//div[contains(@class, 'rating')]/div/span")
+  array_of_rates = rates.map{|m| m.text.to_f}
+  compare_value_and_range(array_of_rates, convert_range(range))
+end
+
+#28-30
+Then /^Add ([^"]*) random items into compare mode$/ do |count|
+  checkbox = $driver.find_elements(:xpath, "//div[@class = 'ws-compare-link-add-container']//input[@type = 'checkbox']")
+  for i in checkbox.sample(count.to_i)
+    i.click
+    sleep 5
+  end
+  message = $driver.find_elements(:xpath, "//div[@class = 'kor-overlay-content']/div")
+  if message.count > 0
+    puts "Error message displayed:   -    " + message.text
+  else raise "Error message is not displayed"
+  end
+end
+
+#31
+Then /^Remove one item from compare mode$/ do
+  compare_list = $driver.find_elements(:xpath, "//ul[@class = 'ws-product-list pet-compare-list']//a[contains(@class, 'link-remove')]")
+  compare_list[0].click
+end
+
+#32
+Then /^Click random item$/ do
+  items = $driver.find_elements(:xpath, $listofgoods)
+  random_item = items.sample
+  random_item.click
+end
+
+Then /^Select ([^"]*) Size and ([^"]*) Flavor if not selected by default$/ do |size, flavor|
+  size_box = $driver.find_element(:xpath, "//div[contains(@aria-labelledby, 'List_SizeCode')]//div[@class = 'kor-select-text-viewport-contents']")rescue false
+  if size_box
+    size_box.click
+    size_item = $driver.find_element(:xpath, "//ul[contains(@class, 'list-SizeCode')]/li["+(size.to_i+1).to_s+"]")
+    size_item.click
+    sleep 1
+  end
+
+  flavor_box = $driver.find_element(:xpath, "//div[contains(@aria-labelledby, 'List_Flavor')]//div[@class = 'kor-select-text-viewport-contents']")rescue false
+  if flavor_box
+    flavor_box.click
+    flavor_item = $driver.find_element(:xpath, "//ul[contains(@class, 'Flavor')]/li["+(flavor.to_i+1).to_s+"]")
+    flavor_item.click
+  end
+end
+
+Then /^Click Add to Cart button$/ do
+  add_button = $driver.find_element(:xpath, "//button[text() = 'Add to Cart']")
+  add_button.click
+  sleep 2
+end
+
+Then /^Verify that quantity of items in the cart is equal to ([^"]*)$/ do |count|
+  cart = $driver.find_element(:xpath, "//a[contains(@class, 'ws-minicart-link')]")
+  $driver.mouse.move_to cart
+  cart_count = $driver.find_element(:xpath, "//span[contains(@class, 'items-amount')]")
+  if cart_count.text == count
+    puts "Quantity is consistent with cart"
+  else
+    raise "Quantity is different"
+  end
+end
+
+#33
+Then /^Verify error message displayed$/ do
+  error_msg = $driver.find_element(:xpath, "//div[contains(@class, 'error-text-heading')]")rescue false
+  if error_msg
+    puts "Error message: " + error_msg.text + " displayed"
+  else
+    puts "No error message"
+  end
+end
+
+#34
+Then /^Remove 1 item from the cart$/ do
+  remove = $driver.find_element(:xpath, "//button[contains(@class, 'ws-cart-remove')]")
+  remove.click
+  sleep 1
+end
+
+Then /^Verify that cart is empty$/ do
+  cart = $driver.find_element(:xpath, "//a[contains(@class, 'ws-minicart-link')]")
+  $driver.mouse.move_to cart
+  empty_cart = $driver.find_element(:xpath, "//p[contains(text(), 'empty')]")rescue false
+  if empty_cart
+    puts "Cart is empty"
+  else
+    raise "Cart is no empty"
+  end
+end
+
+#35
+Then /^Click Secure checkout button and verify you are on Checkout page$/ do
+  checkout_button = $driver.find_element(:xpath, "//button[@name = 'secureCheckout']")
+  checkout_button.click
+  sleep 2
+  checkout_page = $driver.find_element(:xpath, "//h3[@class = 'ws-heading ' and text() = 'Checkout']")rescue false
+  if checkout_page
+    puts "Page displayed"
+  else
+    raise "No checkout page"
+  end
+end
+
+#36
+Then /^Go to the next page$/ do
+  next_page = $driver.find_element(:xpath, "(//ul[@class = 'ws-product-listing-pagination-list'])[1]/li[contains(@class, 'next-page')]")
+  next_page.click
+  sleep 2
+end
+

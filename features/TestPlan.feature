@@ -1,5 +1,5 @@
 Feature: Test plan sample
-#  base url: "http://www.petsmart.com/"
+#base url: "http://www.petsmart.com/"
   #1
   Scenario: Main page functionality - header navigation
     Then Check that menu item Dog contains submenus
@@ -87,98 +87,145 @@ Feature: Test plan sample
     Then In Dog menu go to Food
     Then Set sorting to Price: High to Low
     Then Verify selected item
-    Then Verify correct sorting hightolow
+    Then Verify correct pricesorting hightolow
 
   #17
   Scenario: Dog - Food - sorting - price low to high
     Then In Dog menu go to Food
     Then Set sorting to Price: Low to High
     Then Verify selected item
-    Then Verify correct sorting lowtohigh
+    Then Verify correct pricesorting lowtohigh
 
   #18
   Scenario: Dog - Food - sorting - top rated
     Then In Dog menu go to Food
     Then Set sorting to Top Rated
     Then Verify selected item
-    Then Verify correct sorting
+    Then Verify correct rate_sorting
 
   #19
   Scenario: Dog - Food - sorting - best sellers
     Then In Dog menu go to Food
     Then Set sorting to Best Sellers
     Then Verify selected item
-#
+
   #20
   Scenario: Dog - Food - sorting - new arrivals
     Then In Dog menu go to Food
     Then Set sorting to New Arrivals
     Then Verify selected item
 
-#  Scenario: Dog - Food - filter - Brand
-#    Then In "Dog" menu go to "Food"
-#    Then Set filter for "Brand"
-#    Then Verify correct sorting
-#
-#  Scenario: Dog - Food - filter - Flavor
-#    Then In "Dog" menu go to "Food"
-#    Then Set filter for "Flavor"
-#    Then Verify correct sorting
-#
-#  Scenario: Dog - Food - filter - Breed
-#    Then In "Dog" menu go to "Food"
-#    Then Set filter for "Breed"
-#    Then Verify correct sorting
-#
-#  Scenario: Dog - Food - filter - Price
-#    Then In "Dog" menu go to "Food"
-#    Then Set filter for "Price"
-#    Then Verify correct sorting
-#
-#  Scenario: Dog - Food - filter - Rating
-#    Then In "Dog" menu go to "Food"
-#    Then Set filter for "Rating"
-#    Then Verify correct sorting
-#
-#  Scenario: Dog - Food - filter - Ways To Shop
-#    Then In "Dog" menu go to "Food"
-#    Then Set filter for "Ways to Shop"
-#    Then Verify correct sorting
-#
-#  Scenario: Dog - Food - filter - Health Consideration
-#    Then In "Dog" menu go to "Food"
-#    Then Set filter for "Health Consideration"
-#    Then Verify correct sorting
-#
-#  Scenario: Dog - Food - comparing - adding 2 items
-#    Then In "Dog" menu go to "Food"
-#    Then Add 2 random items into compare mode
-#
-#  Scenario: Dog - Food - comparing - adding 3 items
-#    Then In "Dog" menu go to "Food"
-#    Then Add 3 random items into compare mode
-#
-#  Scenario: Dog - Food - comparing - adding more then 3 items
-#    Then In "Dog" menu go to "Food"
-#    Then Add 4 random items into compare mode
-#
-#  Scenario: Dog - Food - comparing - removing 1-3 items
-#    Then In "Dog" menu go to "Food"
-#    Then Add 3 random items into compare mode
-#    Then Remove one item from compare mode
-#    Then Remove one item from compare mode
-#    Then Remove one item from compare mode
-#
-#  Scenario: Dog - Shopping - 1 item to cart - all fine
-#
-#  Scenario: Dog - Shopping - 1 item to cart - size, quantity and flavor not selected
-#
-#  Scenario: Dog - Shopping - 1 item to cart with removing
-#
-#  Scenario: Dog - Shopping - 1 item to cart with proceeding
-#
-#  Scenario: Dog - Shopping - more then 1 item to cart with removing of 1 item
+  #21
+  Scenario: Dog - Food - filter - Brand
+    Then In Dog menu go to Food
+    Then Set filter for Brand and select Authority
+    Then Verify correct filtration Authority
 
+  #22
+  Scenario: Dog - Food - filter - Flavor
+    Then In Dog menu go to Food
+    Then Set filter for Flavor and select Beef
+    Then Verify correct sorting Beef
+
+  #23
+  Scenario: Dog - Food - filter - Breed
+    Then In Dog menu go to Food
+    Then Set filter for Breed and select Boxer
+    Then Verify correct filtration Boxer
+
+  #24
+  Scenario: Dog - Food - filter - Price
+    Then In Dog menu go to Food
+    Then Set filter for Price and select $10 - $15
+    Then Verify correct $10 - $15 sorting
+
+  #25
+  Scenario: Dog - Food - filter - Rating
+    Then In Dog menu go to Food
+    Then Set filter for By Product Rating and select <=1
+    Then Verify correct <=1 rate_sorting
+
+  #26
+  Scenario: Dog - Food - filter - Ways To Shop
+    Then In Dog menu go to Food
+    Then Set filter for More Ways To Shop and select Featured
+
+  #27
+  Scenario: Dog - Food - filter - Health Consideration
+    Then In Dog menu go to Food
+    Then Set filter for Health Consideration and select Brain Development
+
+  #28
+  Scenario: Dog - Food - comparing - adding 2 items
+    Then In Dog menu go to Food
+    Then Add 2 random items into compare mode
+
+  #29
+  Scenario: Dog - Food - comparing - adding 3 items
+    Then In Dog menu go to Food
+    Then Add 3 random items into compare mode
+
+  #30
+  Scenario: Dog - Food - comparing - adding more then 3 items
+    Then In Dog menu go to Food
+    Then Add 4 random items into compare mode
+
+  #31
+  Scenario: Dog - Food - comparing - removing 1-3 items
+    Then In Dog menu go to Food
+    Then Add 3 random items into compare mode
+    Then Remove one item from compare mode
+    Then Remove one item from compare mode
+    Then Remove one item from compare mode
+
+  #32
+  Scenario: Dog - Shopping - 1 item to cart - all fine
+    Then In Dog menu go to Food
+    Then Click random item
+    Then Select 1 Size and 1 Flavor if not selected by default
+    Then Click Add to Cart button
+    Then Verify that quantity of items in the cart is equal to 1
+
+  #33
+  Scenario: Dog - Shopping - 1 item to cart - size, quantity and flavor not selected
+    Then In Dog menu go to Food
+    Then Click random item
+    Then Click Add to Cart button
+    Then Verify error message displayed
+
+  #34
+  Scenario: Dog - Shopping - 1 item to cart with removing
+    Then In Dog menu go to Food
+    Then Click random item
+    Then Select 1 Size and 1 Flavor if not selected by default
+    Then Click Add to Cart button
+    Then Verify that quantity of items in the cart is equal to 1
+    Then Remove 1 item from the cart
+    Then Verify that cart is empty
+
+  #35
+  Scenario: Dog - Shopping - 1 item to cart with proceeding
+    Then In Dog menu go to Food
+    Then Click random item
+    Then Select 1 Size and 1 Flavor if not selected by default
+    Then Click Add to Cart button
+    Then Verify that quantity of items in the cart is equal to 1
+    Then Click Secure checkout button and verify you are on Checkout page
+
+  #36
+  Scenario: Dog - Shopping - more then 1 item to cart with removing of 1 item
+    Then In Dog menu go to Food
+    Then Click random item
+    Then Select 1 Size and 1 Flavor if not selected by default
+    Then Click Add to Cart button
+    Then In Dog menu go to Food
+    Then Go to the next page
+    Then Click random item
+    Then Select 1 Size and 1 Flavor if not selected by default
+    Then Click Add to Cart button
+    Then Verify that quantity of items in the cart is equal to 2
+    Then Remove 1 item from the cart
+    Then Verify that quantity of items in the cart is equal to 1
 
 
 

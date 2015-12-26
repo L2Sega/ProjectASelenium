@@ -1,29 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76dc4675-446b-4b8c-82c1-cea173b2fce4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/TestData/Test2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/TestData/Test3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RubymineProjects/My project/.idea/workspace.xml___jb_bak___" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/.idea/AdvLoops_1.iml" afterPath="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/.idea/AdvLoops_1.iml" />
+    <list default="true" id="388f6f2d-1901-48f6-9235-8ec9116ba9c7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/TestData/romeo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/TestData/text_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/TestData/text_2.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/AdvancedSeleniumClass.iml" afterPath="$PROJECT_DIR$/.idea/AdvancedSeleniumClass.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RubymineProjects/My project/.idea/My project.iml" afterPath="$PROJECT_DIR$/../RubymineProjects/My project/.idea/My project.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RubymineProjects/Ruby training/Ruby ex" afterPath="$PROJECT_DIR$/../RubymineProjects/Ruby training/Ruby ex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RubymineProjects/Ruby training/.idea/Ruby training.iml" afterPath="$PROJECT_DIR$/../RubymineProjects/Ruby training/.idea/Ruby training.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/TestPlan.feature" afterPath="$PROJECT_DIR$/features/TestPlan.feature" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/support/env.rb" afterPath="$PROJECT_DIR$/features/support/env.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/support/env.rb" afterPath="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/support/env.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RubymineProjects/My project/features/support/env.rb" afterPath="$PROJECT_DIR$/../RubymineProjects/My project/features/support/env.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/loops.feature" afterPath="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/loops.feature" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/step_definitions/steps.rb" afterPath="$PROJECT_DIR$/features/step_definitions/steps.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/step_definitions/steps.rb" afterPath="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/step_definitions/steps.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RubymineProjects/My project/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../RubymineProjects/My project/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RubymineProjects/My project/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../RubymineProjects/My project/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/.idea/workspace.xml" />
     </list>
     <ignored path="AdvancedSeleniumClass.iws" />
     <ignored path=".idea/workspace.xml" />
-    <ignored path=".idea/dataSources.local.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,114 +27,19 @@
   </component>
   <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___pagination_verification__AdvancedSeleniumClass__5_.coverage" NAME="Dog - Food - pagination verification: AdvancedSeleniumClass (5) Coverage Results" MODIFIED="1448822701747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Check_Mileage__AdvLoops_1__2_.coverage" NAME="Check Mileage: AdvLoops_1 (2) Coverage Results" MODIFIED="1448446786900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Open_drop_down_list__AdvLoops_1.coverage" NAME="Open drop down list: AdvLoops_1 Coverage Results" MODIFIED="1448454051305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___sorting___price_low_to_high__AdvancedSeleniumClass__4_.coverage" NAME="Dog - Food - sorting - price low to high: AdvancedSeleniumClass (4) Coverage Results" MODIFIED="1449230182771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___sorting___price_low_to_high__AdvancedSeleniumClass__3_.coverage" NAME="Dog - Food - sorting - price low to high: AdvancedSeleniumClass (3) Coverage Results" MODIFIED="1449229361121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Open_drop_down_list__AdvLoops_1__2_.coverage" NAME="Open drop down list: AdvLoops_1 (2) Coverage Results" MODIFIED="1448454771838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@steps.coverage" NAME="steps Coverage Results" MODIFIED="1449079277488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/step_definitions" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___upcoming_events_wrapper__AdvancedSeleniumClass__4_.coverage" NAME="Main page functionality - upcoming events wrapper: AdvancedSeleniumClass (4) Coverage Results" MODIFIED="1448618583122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___sorting___top_rated__AdvancedSeleniumClass__1_.coverage" NAME="Dog - Food - sorting - top rated: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1449239311334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Google__AdvLoops_1__1_.coverage" NAME="Google: AdvLoops_1 (1) Coverage Results" MODIFIED="1448376430442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food_and_health___top_categories__AdvancedSeleniumClass__2_.coverage" NAME="Dog - Food and health - top categories: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1448655845401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Loop__My_project__2_.coverage" NAME="Loop: My project (2) Coverage Results" MODIFIED="1448801262146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/My project" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Upload_file__AdvLoops_1__3_.coverage" NAME="Upload file: AdvLoops_1 (3) Coverage Results" MODIFIED="1448896580498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___search___invalid_search__AdvancedSeleniumClass__1_.coverage" NAME="Main page functionality - search - invalid search: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1448623957007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___search___valid_search__AdvancedSeleniumClass__2_.coverage" NAME="Main page functionality - search - valid search: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1448620443095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food_and_health___top_categories__AdvancedSeleniumClass__5_.coverage" NAME="Dog - Food and health - top categories: AdvancedSeleniumClass (5) Coverage Results" MODIFIED="1448656247524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___search___valid_search__AdvancedSeleniumClass__1_.coverage" NAME="Main page functionality - search - valid search: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1448620184974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___sorting___price_low_to_high__AdvancedSeleniumClass__5_.coverage" NAME="Dog - Food - sorting - price low to high: AdvancedSeleniumClass (5) Coverage Results" MODIFIED="1449226562722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___search___valid_search__AdvancedSeleniumClass__4_.coverage" NAME="Main page functionality - search - valid search: AdvancedSeleniumClass (4) Coverage Results" MODIFIED="1448621420198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@DD_HTML5__AdvLoops_1.coverage" NAME="DD HTML5: AdvLoops_1 Coverage Results" MODIFIED="1448888738412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___search___valid_search__AdvancedSeleniumClass__3_.coverage" NAME="Main page functionality - search - valid search: AdvancedSeleniumClass (3) Coverage Results" MODIFIED="1448620918747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Google__AdvLoops_1__3_.coverage" NAME="Google: AdvLoops_1 (3) Coverage Results" MODIFIED="1448316778403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food_and_health___Brands__AdvancedSeleniumClass__4_.coverage" NAME="Dog - Food and health - Brands: AdvancedSeleniumClass (4) Coverage Results" MODIFIED="1448650222903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Loop__My_project.coverage" NAME="Loop: My project Coverage Results" MODIFIED="1448801194098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/My project" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Color__AdvLoops_1__2_.coverage" NAME="Color: AdvLoops_1 (2) Coverage Results" MODIFIED="1448452176452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Upload_file_3__AdvLoops_1.coverage" NAME="Upload file 3: AdvLoops_1 Coverage Results" MODIFIED="1449065250574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___see_200_items_verification__AdvancedSeleniumClass__2_.coverage" NAME="Dog - Food - see 200 items verification: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1448799481358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Game_drag_and_drop__AdvLoops_1__4_.coverage" NAME="Game drag and drop: AdvLoops_1 (4) Coverage Results" MODIFIED="1449081863940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Upload_file_2__AdvLoops_1__1_.coverage" NAME="Upload file 2: AdvLoops_1 (1) Coverage Results" MODIFIED="1449047529949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___sorting___price_low_to_high__AdvancedSeleniumClass.coverage" NAME="Dog - Food - sorting - price low to high: AdvancedSeleniumClass Coverage Results" MODIFIED="1449231668071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___pet_services_wrapper__AdvancedSeleniumClass__2_.coverage" NAME="Main page functionality - pet services wrapper: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1448627782414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___sorting___price_low_to_high__AdvancedSeleniumClass__2_.coverage" NAME="Dog - Food - sorting - price low to high: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1449229723965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___pet_services_wrapper__AdvancedSeleniumClass__3_.coverage" NAME="Main page functionality - pet services wrapper: AdvancedSeleniumClass (3) Coverage Results" MODIFIED="1448627943318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___sorting___top_rated__AdvancedSeleniumClass.coverage" NAME="Dog - Food - sorting - top rated: AdvancedSeleniumClass Coverage Results" MODIFIED="1449232427198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food_and_health___Brands__AdvancedSeleniumClass__5_.coverage" NAME="Dog - Food and health - Brands: AdvancedSeleniumClass (5) Coverage Results" MODIFIED="1448649407323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Google__AdvLoops_1__4_.coverage" NAME="Google: AdvLoops_1 (4) Coverage Results" MODIFIED="1448354069980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Upload_file__AdvLoops_1__2_.coverage" NAME="Upload file: AdvLoops_1 (2) Coverage Results" MODIFIED="1448910057219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Color__AdvLoops_1.coverage" NAME="Color: AdvLoops_1 Coverage Results" MODIFIED="1448452107956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Hybrid_dropdown__AdvLoops_1__1_.coverage" NAME="Hybrid dropdown: AdvLoops_1 (1) Coverage Results" MODIFIED="1449045997275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___sorting___price_low_to_high__AdvancedSeleniumClass__1_.coverage" NAME="Dog - Food - sorting - price low to high: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1449229907372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Ruby_ex.coverage" NAME="Ruby ex Coverage Results" MODIFIED="1449079072775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/Ruby training" MODULE_NAME="Ruby training" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Upload_file_2__AdvLoops_1.coverage" NAME="Upload file 2: AdvLoops_1 Coverage Results" MODIFIED="1449047494182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Color__AdvLoops_1__1_.coverage" NAME="Color: AdvLoops_1 (1) Coverage Results" MODIFIED="1448452159525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food_and_health___Brands__AdvancedSeleniumClass__1_.coverage" NAME="Dog - Food and health - Brands: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1448649709753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___external_links___instagram__AdvancedSeleniumClass__1_.coverage" NAME="Main page functionality - external links - instagram: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1448316346859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Upload_file_2__AdvLoops_1__2_.coverage" NAME="Upload file 2: AdvLoops_1 (2) Coverage Results" MODIFIED="1449051827930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___see_200_items_verification__AdvancedSeleniumClass__3_.coverage" NAME="Dog - Food - see 200 items verification: AdvancedSeleniumClass (3) Coverage Results" MODIFIED="1448799708392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___sorting___price_high_to_low__AdvancedSeleniumClass__1_.coverage" NAME="Dog - Food - sorting - price high to low: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1449230773752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___upcoming_events_wrapper__AdvancedSeleniumClass.coverage" NAME="Main page functionality - upcoming events wrapper: AdvancedSeleniumClass Coverage Results" MODIFIED="1448617731615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Check_Mileage__AdvLoops_1__4_.coverage" NAME="Check Mileage: AdvLoops_1 (4) Coverage Results" MODIFIED="1448367800844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___sorting___price_high_to_low__AdvancedSeleniumClass__5_.coverage" NAME="Dog - Food - sorting - price high to low: AdvancedSeleniumClass (5) Coverage Results" MODIFIED="1449231535235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Search_verification_1_2___AdvancedSeleniumClass__1_.coverage" NAME="Search verification 1.2.: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1440436524803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Check_Mileage__AdvLoops_1.coverage" NAME="Check Mileage: AdvLoops_1 Coverage Results" MODIFIED="1448367889045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Cascade_dropdown_list__AdvLoops_1.coverage" NAME="Cascade dropdown list: AdvLoops_1 Coverage Results" MODIFIED="1448455464835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___search___valid_search__AdvancedSeleniumClass.coverage" NAME="Main page functionality - search - valid search: AdvancedSeleniumClass Coverage Results" MODIFIED="1448619819710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___see_200_items_verification__AdvancedSeleniumClass__4_.coverage" NAME="Dog - Food - see 200 items verification: AdvancedSeleniumClass (4) Coverage Results" MODIFIED="1448799839171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___see_200_items_verification__AdvancedSeleniumClass.coverage" NAME="Dog - Food - see 200 items verification: AdvancedSeleniumClass Coverage Results" MODIFIED="1448794211252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Upload_file__AdvLoops_1.coverage" NAME="Upload file: AdvLoops_1 Coverage Results" MODIFIED="1448908795070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___search___valid_search__AdvancedSeleniumClass__5_.coverage" NAME="Main page functionality - search - valid search: AdvancedSeleniumClass (5) Coverage Results" MODIFIED="1448621508964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Check_Mileage__AdvLoops_1__1_.coverage" NAME="Check Mileage: AdvLoops_1 (1) Coverage Results" MODIFIED="1448368011612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Check_Mileage__AdvLoops_1__5_.coverage" NAME="Check Mileage: AdvLoops_1 (5) Coverage Results" MODIFIED="1448367563688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Game_drag_and_drop__AdvLoops_1__3_.coverage" NAME="Game drag and drop: AdvLoops_1 (3) Coverage Results" MODIFIED="1449081370971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___pagination_verification__AdvancedSeleniumClass__4_.coverage" NAME="Dog - Food - pagination verification: AdvancedSeleniumClass (4) Coverage Results" MODIFIED="1448822531545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___pagination_verification__AdvancedSeleniumClass.coverage" NAME="Dog - Food - pagination verification: AdvancedSeleniumClass Coverage Results" MODIFIED="1448869046381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Task_3___For_loop___array___AdvLoops_1.coverage" NAME="Task 3: (For loop + array): AdvLoops_1 Coverage Results" MODIFIED="1448357472007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___sorting___price_high_to_low__AdvancedSeleniumClass__2_.coverage" NAME="Dog - Food - sorting - price high to low: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1449231122997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___search___invalid_search__AdvancedSeleniumClass__2_.coverage" NAME="Main page functionality - search - invalid search: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1448624022730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___upcoming_events_wrapper__AdvancedSeleniumClass__2_.coverage" NAME="Main page functionality - upcoming events wrapper: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1448618146094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___pagination_verification__AdvancedSeleniumClass__1_.coverage" NAME="Dog - Food - pagination verification: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1448869097869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food_and_health___top_categories__AdvancedSeleniumClass__3_.coverage" NAME="Dog - Food and health - top categories: AdvancedSeleniumClass (3) Coverage Results" MODIFIED="1448655905029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___upcoming_events_wrapper__AdvancedSeleniumClass__3_.coverage" NAME="Main page functionality - upcoming events wrapper: AdvancedSeleniumClass (3) Coverage Results" MODIFIED="1448618283107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food_and_health___Brands__AdvancedSeleniumClass.coverage" NAME="Dog - Food and health - Brands: AdvancedSeleniumClass Coverage Results" MODIFIED="1448649483286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Open_drop_down_list__AdvLoops_1__1_.coverage" NAME="Open drop down list: AdvLoops_1 (1) Coverage Results" MODIFIED="1448454199663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Color__AdvLoops_1__4_.coverage" NAME="Color: AdvLoops_1 (4) Coverage Results" MODIFIED="1448452248896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___upcoming_events_wrapper__AdvancedSeleniumClass__5_.coverage" NAME="Main page functionality - upcoming events wrapper: AdvancedSeleniumClass (5) Coverage Results" MODIFIED="1448617429238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Game_drag_and_drop__AdvLoops_1.coverage" NAME="Game drag and drop: AdvLoops_1 Coverage Results" MODIFIED="1449079496532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___upcoming_events_wrapper__AdvancedSeleniumClass__1_.coverage" NAME="Main page functionality - upcoming events wrapper: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1448617855284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Upload_file__AdvLoops_1__5_.coverage" NAME="Upload file: AdvLoops_1 (5) Coverage Results" MODIFIED="1448896640376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Loop__My_project__4_.coverage" NAME="Loop: My project (4) Coverage Results" MODIFIED="1448801356228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/My project" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Check_Mileage__AdvLoops_1__3_.coverage" NAME="Check Mileage: AdvLoops_1 (3) Coverage Results" MODIFIED="1448367699730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food_and_health___Brands__AdvancedSeleniumClass__2_.coverage" NAME="Dog - Food and health - Brands: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1448649797887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___pet_services_wrapper__AdvancedSeleniumClass__1_.coverage" NAME="Main page functionality - pet services wrapper: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1448627737636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Upload_file__AdvLoops_1__1_.coverage" NAME="Upload file: AdvLoops_1 (1) Coverage Results" MODIFIED="1448909118891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___search___invalid_search__AdvancedSeleniumClass.coverage" NAME="Main page functionality - search - invalid search: AdvancedSeleniumClass Coverage Results" MODIFIED="1448621897910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food_and_health___Brands__AdvancedSeleniumClass__3_.coverage" NAME="Dog - Food and health - Brands: AdvancedSeleniumClass (3) Coverage Results" MODIFIED="1448649952158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___sorting___price_high_to_low__AdvancedSeleniumClass__4_.coverage" NAME="Dog - Food - sorting - price high to low: AdvancedSeleniumClass (4) Coverage Results" MODIFIED="1449231454967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___pet_services_wrapper__AdvancedSeleniumClass.coverage" NAME="Main page functionality - pet services wrapper: AdvancedSeleniumClass Coverage Results" MODIFIED="1448627678469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food_and_health___top_categories__AdvancedSeleniumClass__4_.coverage" NAME="Dog - Food and health - top categories: AdvancedSeleniumClass (4) Coverage Results" MODIFIED="1448656133983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___see_200_items_verification__AdvancedSeleniumClass__1_.coverage" NAME="Dog - Food - see 200 items verification: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1448799335761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Main_page_functionality___external_links___instagram__AdvancedSeleniumClass__2_.coverage" NAME="Main page functionality - external links - instagram: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1448316399551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Upload_file_3__AdvLoops_1__3_.coverage" NAME="Upload file 3: AdvLoops_1 (3) Coverage Results" MODIFIED="1449076667266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Loop__My_project__3_.coverage" NAME="Loop: My project (3) Coverage Results" MODIFIED="1448801302042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/My project" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Upload_file_3__AdvLoops_1__2_.coverage" NAME="Upload file 3: AdvLoops_1 (2) Coverage Results" MODIFIED="1449069283943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Loop__My_project__1_.coverage" NAME="Loop: My project (1) Coverage Results" MODIFIED="1448801225055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/My project" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Upload_file__AdvLoops_1__4_.coverage" NAME="Upload file: AdvLoops_1 (4) Coverage Results" MODIFIED="1448896606427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___sorting___price_high_to_low__AdvancedSeleniumClass.coverage" NAME="Dog - Food - sorting - price high to low: AdvancedSeleniumClass Coverage Results" MODIFIED="1449230661832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___pagination_verification__AdvancedSeleniumClass__2_.coverage" NAME="Dog - Food - pagination verification: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1448869206078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Color__AdvLoops_1__3_.coverage" NAME="Color: AdvLoops_1 (3) Coverage Results" MODIFIED="1448452221391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Search_verification_1_2___AdvancedSeleniumClass.coverage" NAME="Search verification 1.2.: AdvancedSeleniumClass Coverage Results" MODIFIED="1440436092619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___sorting___price_high_to_low__AdvancedSeleniumClass__3_.coverage" NAME="Dog - Food - sorting - price high to low: AdvancedSeleniumClass (3) Coverage Results" MODIFIED="1449231028424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___pagination_verification__AdvancedSeleniumClass__3_.coverage" NAME="Dog - Food - pagination verification: AdvancedSeleniumClass (3) Coverage Results" MODIFIED="1448869370937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food_and_health___top_categories__AdvancedSeleniumClass__1_.coverage" NAME="Dog - Food and health - top categories: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1448656740373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Google__AdvLoops_1.coverage" NAME="Google: AdvLoops_1 Coverage Results" MODIFIED="1448376366607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Game_drag_and_drop__AdvLoops_1__2_.coverage" NAME="Game drag and drop: AdvLoops_1 (2) Coverage Results" MODIFIED="1449081336439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Hybrid_dropdown__AdvLoops_1.coverage" NAME="Hybrid dropdown: AdvLoops_1 Coverage Results" MODIFIED="1449045859877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Upload_file_3__AdvLoops_1__1_.coverage" NAME="Upload file 3: AdvLoops_1 (1) Coverage Results" MODIFIED="1449065525437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food_and_health___top_categories__AdvancedSeleniumClass.coverage" NAME="Dog - Food and health - top categories: AdvancedSeleniumClass Coverage Results" MODIFIED="1448656652270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Game_drag_and_drop__AdvLoops_1__1_.coverage" NAME="Game drag and drop: AdvLoops_1 (1) Coverage Results" MODIFIED="1449081154535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1" MODULE_NAME="AdvLoops_1" />
+    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___filter___Rating__AdvancedSeleniumClass__2_.coverage" NAME="Dog - Food - filter - Rating: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1451037123440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___filter___Price__AdvancedSeleniumClass__1_.coverage" NAME="Dog - Food - filter - Price: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1451040343795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___filter___Rating__AdvancedSeleniumClass__4_.coverage" NAME="Dog - Food - filter - Rating: AdvancedSeleniumClass (4) Coverage Results" MODIFIED="1451036827214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___filter___Rating__AdvancedSeleniumClass__1_.coverage" NAME="Dog - Food - filter - Rating: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1451037075682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___filter___Rating__AdvancedSeleniumClass__3_.coverage" NAME="Dog - Food - filter - Rating: AdvancedSeleniumClass (3) Coverage Results" MODIFIED="1451036626036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___filter___Price__AdvancedSeleniumClass.coverage" NAME="Dog - Food - filter - Price: AdvancedSeleniumClass Coverage Results" MODIFIED="1451040268645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___filter___Price__AdvancedSeleniumClass__3_.coverage" NAME="Dog - Food - filter - Price: AdvancedSeleniumClass (3) Coverage Results" MODIFIED="1451039885397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___filter___Rating__AdvancedSeleniumClass__5_.coverage" NAME="Dog - Food - filter - Rating: AdvancedSeleniumClass (5) Coverage Results" MODIFIED="1451037254332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___filter___Rating__AdvancedSeleniumClass.coverage" NAME="Dog - Food - filter - Rating: AdvancedSeleniumClass Coverage Results" MODIFIED="1451036912185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___filter___Price__AdvancedSeleniumClass__2_.coverage" NAME="Dog - Food - filter - Price: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1451039777073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___filter___Price__AdvancedSeleniumClass__4_.coverage" NAME="Dog - Food - filter - Price: AdvancedSeleniumClass (4) Coverage Results" MODIFIED="1451040023876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Ruby_ex.coverage" NAME="Ruby ex Coverage Results" MODIFIED="1451036578529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../RubymineProjects/Ruby training" MODULE_NAME="Ruby training" />
+    <SUITE FILE_PATH="coverage/AdvancedSeleniumClass@Dog___Food___filter___Price__AdvancedSeleniumClass__5_.coverage" NAME="Dog - Food - filter - Price: AdvancedSeleniumClass (5) Coverage Results" MODIFIED="1451040192608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="AdvancedSeleniumClass" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -156,7 +56,7 @@
       <file leaf-file-name="TestPlan.feature" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/TestPlan.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="120" column="32" selection-start="3785" selection-end="3785" vertical-scroll-proportion="0.38496584" vertical-offset="1871" max-vertical-offset="3502">
+            <state line="212" column="14" selection-start="6684" selection-end="6684" vertical-scroll-proportion="0.5240572" vertical-offset="3201" max-vertical-offset="4301">
               <folding />
             </state>
           </provider>
@@ -165,7 +65,7 @@
       <file leaf-file-name="steps.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="283" column="32" selection-start="9704" selection-end="9704" vertical-scroll-proportion="-7.1538463" vertical-offset="4625" max-vertical-offset="5066">
+            <state line="365" column="0" selection-start="12623" selection-end="12623" vertical-scroll-proportion="0.0" vertical-offset="5895" max-vertical-offset="6664">
               <folding />
             </state>
           </provider>
@@ -174,7 +74,7 @@
       <file leaf-file-name="env.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/support/env.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+            <state line="12" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
               <folding />
             </state>
           </provider>
@@ -188,49 +88,26 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../RubymineProjects/My project/features/step_definitions/steps.rb" />
-        <option value="$PROJECT_DIR$/../RubymineProjects/My project/features/support/env.rb" />
-        <option value="$PROJECT_DIR$/features/support/env.rb" />
-        <option value="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/support/env.rb" />
-        <option value="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/loops.feature" />
         <option value="$PROJECT_DIR$/../RubymineProjects/Ruby training/Ruby ex" />
-        <option value="$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/step_definitions/steps.rb" />
-        <option value="$PROJECT_DIR$/features/step_definitions/steps.rb" />
         <option value="$PROJECT_DIR$/features/TestPlan.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/steps.rb" />
+        <option value="$PROJECT_DIR$/features/support/env.rb" />
       </list>
     </option>
   </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="1" />
+    <option name="y" value="-8" />
     <option name="width" value="1456" />
-    <option name="height" value="832" />
+    <option name="height" value="876" />
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>CoffeeScript</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -256,7 +133,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -275,204 +151,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvancedSeleniumClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="My project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvancedSeleniumClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="My project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="support" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvancedSeleniumClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="My project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step_definitions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvancedSeleniumClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvLoops_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvancedSeleniumClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvLoops_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="support" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvancedSeleniumClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvLoops_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step_definitions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvancedSeleniumClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvLoops_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TestData" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvancedSeleniumClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvancedSeleniumClass-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvancedSeleniumClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvancedSeleniumClass-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="support" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvancedSeleniumClass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdvancedSeleniumClass-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step_definitions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/Testing/Portnov Computer School/Selenium/Marina_Advance/New 16 10 2015/Last Version AdvancedSeleniumClass-master/AdvancedSeleniumClass-master" />
     <property name="recentsLimit" value="5" />
-    <property name="FullScreen" value="false" />
-    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="156" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="173" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="180" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="859" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="177" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="166" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="173" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="852" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="project.settings.patched" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/features/step_definitions/steps.rb" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Cucumber.Dog - Food - sorting - top rated: AdvancedSeleniumClass (1)">
-    <configuration default="false" name="Dog - Food - sorting - price high to low: AdvancedSeleniumClass (4)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+  <component name="RunManager" selected="Cucumber.Dog - Food - filter - Price: AdvancedSeleniumClass (1)">
+    <configuration default="false" name="Dog - Food - filter - Price: AdvancedSeleniumClass (3)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="AdvancedSeleniumClass" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -481,6 +174,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs>
+        <env name="ANSICON" value="" />
         <env name="JRUBY_OPTS" value="-X+O" />
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
@@ -492,7 +186,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/TestPlan.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Dog \- Food \- sorting \- price high to low$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Dog \- Food \- filter \- Price$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features --format pretty" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -506,7 +200,7 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Dog - Food - sorting - price high to low: AdvancedSeleniumClass (5)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration default="false" name="Dog - Food - filter - Price: AdvancedSeleniumClass (4)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="AdvancedSeleniumClass" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -515,6 +209,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs>
+        <env name="ANSICON" value="" />
         <env name="JRUBY_OPTS" value="-X+O" />
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
@@ -526,7 +221,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/TestPlan.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Dog \- Food \- sorting \- price high to low$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Dog \- Food \- filter \- Price$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features --format pretty" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -540,7 +235,7 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Dog - Food - sorting - price low to high: AdvancedSeleniumClass" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration default="false" name="Dog - Food - filter - Price: AdvancedSeleniumClass (5)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="AdvancedSeleniumClass" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -549,6 +244,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs>
+        <env name="ANSICON" value="" />
         <env name="JRUBY_OPTS" value="-X+O" />
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
@@ -560,7 +256,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/TestPlan.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Dog \- Food \- sorting \- price low to high$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Dog \- Food \- filter \- Price$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features --format pretty" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -574,7 +270,7 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Dog - Food - sorting - top rated: AdvancedSeleniumClass" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration default="false" name="Dog - Food - filter - Price: AdvancedSeleniumClass" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="AdvancedSeleniumClass" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -583,6 +279,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs>
+        <env name="ANSICON" value="" />
         <env name="JRUBY_OPTS" value="-X+O" />
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
@@ -594,7 +291,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/TestPlan.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Dog \- Food \- sorting \- top rated$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Dog \- Food \- filter \- Price$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features --format pretty" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -608,7 +305,7 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Dog - Food - sorting - top rated: AdvancedSeleniumClass (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration default="false" name="Dog - Food - filter - Price: AdvancedSeleniumClass (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="AdvancedSeleniumClass" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -617,6 +314,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs>
+        <env name="ANSICON" value="" />
         <env name="JRUBY_OPTS" value="-X+O" />
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
@@ -628,7 +326,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/TestPlan.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Dog \- Food \- sorting \- top rated$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Dog \- Food \- filter \- Price$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features --format pretty" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -640,33 +338,6 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <RunnerSettings RunnerId="RubyRunner" />
       <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
-    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
     <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
@@ -688,29 +359,6 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
-    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
-      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
-      <module name="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
-      <method />
-    </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="AdvancedSeleniumClass" />
@@ -719,7 +367,9 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
+      <envs>
+        <env name="ANSICON" value="" />
+      </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
@@ -744,19 +394,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Cucumber.LogIn: My project" />
       <item index="1" class="java.lang.String" itemvalue="Cucumber.Search verification 1.2.: AdvancedSeleniumClass (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Cucumber.Dog - Food - sorting - price high to low: AdvancedSeleniumClass (4)" />
-      <item index="3" class="java.lang.String" itemvalue="Cucumber.Dog - Food - sorting - price high to low: AdvancedSeleniumClass (5)" />
-      <item index="4" class="java.lang.String" itemvalue="Cucumber.Dog - Food - sorting - price low to high: AdvancedSeleniumClass" />
-      <item index="5" class="java.lang.String" itemvalue="Cucumber.Dog - Food - sorting - top rated: AdvancedSeleniumClass" />
-      <item index="6" class="java.lang.String" itemvalue="Cucumber.Dog - Food - sorting - top rated: AdvancedSeleniumClass (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Cucumber.Dog - Food - filter - Price: AdvancedSeleniumClass (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Cucumber.Dog - Food - filter - Price: AdvancedSeleniumClass (4)" />
+      <item index="4" class="java.lang.String" itemvalue="Cucumber.Dog - Food - filter - Price: AdvancedSeleniumClass (5)" />
+      <item index="5" class="java.lang.String" itemvalue="Cucumber.Dog - Food - filter - Price: AdvancedSeleniumClass" />
+      <item index="6" class="java.lang.String" itemvalue="Cucumber.Dog - Food - filter - Price: AdvancedSeleniumClass (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Cucumber.Dog - Food - sorting - top rated: AdvancedSeleniumClass (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Cucumber.Dog - Food - sorting - top rated: AdvancedSeleniumClass" />
-        <item index="2" class="java.lang.String" itemvalue="Cucumber.Dog - Food - sorting - price low to high: AdvancedSeleniumClass" />
-        <item index="3" class="java.lang.String" itemvalue="Cucumber.Dog - Food - sorting - price high to low: AdvancedSeleniumClass (5)" />
-        <item index="4" class="java.lang.String" itemvalue="Cucumber.Dog - Food - sorting - price high to low: AdvancedSeleniumClass (4)" />
+        <item index="0" class="java.lang.String" itemvalue="Cucumber.Dog - Food - filter - Price: AdvancedSeleniumClass (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber.Dog - Food - filter - Price: AdvancedSeleniumClass" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber.Dog - Food - filter - Price: AdvancedSeleniumClass (5)" />
+        <item index="3" class="java.lang.String" itemvalue="Cucumber.Dog - Food - filter - Price: AdvancedSeleniumClass (4)" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber.Dog - Food - filter - Price: AdvancedSeleniumClass (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -776,58 +426,36 @@
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
     <option name="FORCE_UPDATE" value="false" />
     <option name="IGNORE_EXTERNALS" value="false" />
-    <configuration useDefault="false" />
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="76dc4675-446b-4b8c-82c1-cea173b2fce4" name="Default" comment="" />
-      <created>1440435816714</created>
-      <updated>1440435816714</updated>
+      <changelist id="388f6f2d-1901-48f6-9235-8ec9116ba9c7" name="Default" comment="" />
+      <created>1450983898216</created>
+      <updated>1450983898216</updated>
     </task>
     <servers />
   </component>
-  <component name="TodoView" selected-index="0">
-    <todo-panel id="selected-file">
-      <are-packages-shown value="false" />
-      <are-modules-shown value="false" />
-      <flatten-packages value="false" />
-      <is-autoscroll-to-source value="false" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="false" />
-      <are-modules-shown value="false" />
-      <flatten-packages value="false" />
-      <is-autoscroll-to-source value="false" />
-    </todo-panel>
-    <todo-panel id="default-changelist">
-      <are-packages-shown value="false" />
-      <are-modules-shown value="false" />
-      <flatten-packages value="false" />
-      <is-autoscroll-to-source value="false" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="1" width="1456" height="832" extended-state="0" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20454545" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32828283" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17095852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13055556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32575756" sideWeight="0.42840648" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33476394" sideWeight="0.5715935" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32816538" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="21" y="302" width="1398" height="255" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -849,303 +477,74 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/step_definitions/steps.rb">
+    <entry file="file://$PROJECT_DIR$/features/TestPlan.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="185" column="0" selection-start="5514" selection-end="5514" vertical-scroll-proportion="0.0" vertical-offset="2758" max-vertical-offset="3774">
+        <state line="212" column="14" selection-start="6684" selection-end="6684" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4301">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/step_definitions/steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1049" selection-end="1049" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="612" />
+        <state line="385" column="0" selection-start="13238" selection-end="13238" vertical-scroll-proportion="0.0" vertical-offset="6196" max-vertical-offset="6664">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/Ruby training/Ruby ex">
+    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="7" selection-start="1005" selection-end="1005" vertical-scroll-proportion="0.0" vertical-offset="395" max-vertical-offset="1088" />
+        <state line="112" column="28" selection-start="2740" selection-end="2740" vertical-scroll-proportion="0.0" vertical-offset="1904" max-vertical-offset="2176">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/support/env.rb">
+    <entry file="file://$PROJECT_DIR$/features/TestPlan.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="170" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/loops.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="984" selection-end="984" vertical-scroll-proportion="0.0" vertical-offset="428" max-vertical-offset="935" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="153" column="3" selection-start="4503" selection-end="4503" vertical-scroll-proportion="0.0" vertical-offset="2474" max-vertical-offset="3774">
+        <state line="142" column="26" selection-start="4365" selection-end="4365" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4301">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/step_definitions/steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="6" selection-start="465" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="612" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/Ruby training/Ruby ex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="11" selection-start="109" selection-end="113" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1088" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="170" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/loops.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="15" selection-start="855" selection-end="855" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="3434">
+        <state line="433" column="9" selection-start="15282" selection-end="15400" vertical-scroll-proportion="0.0" vertical-offset="7044" max-vertical-offset="7803">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="170" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/loops.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="13" selection-start="853" selection-end="853" vertical-scroll-proportion="0.0" vertical-offset="325" max-vertical-offset="850" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3434">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/TestPlan.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="24" selection-start="1275" selection-end="1275" vertical-scroll-proportion="0.0" vertical-offset="436" max-vertical-offset="3298" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/features/support/env.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="272" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/TestPlan.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3298" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="272" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/TestPlan.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="3298" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="272" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/TestPlan.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3298" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="272" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/TestPlan.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3298" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="272" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="187" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="187" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/My project/features/instructions.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="13" selection-start="3949" selection-end="3949" vertical-scroll-proportion="0.59142214" vertical-offset="1863" max-vertical-offset="2499" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/My project/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="2" selection-start="171" selection-end="171" vertical-scroll-proportion="0.30699775" vertical-offset="0" max-vertical-offset="578" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/TestData/Test.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/TestData/Test2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/TestData/Test3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/loops.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="0" selection-start="1721" selection-end="1721" vertical-scroll-proportion="0.64933133" vertical-offset="702" max-vertical-offset="1377">
+        <state line="46" column="0" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1921">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../RubymineProjects/Ruby training/Ruby ex">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="0" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.8454546" vertical-offset="717" max-vertical-offset="1377">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="41" selection-start="109" selection-end="109" vertical-scroll-proportion="0.10104012" vertical-offset="0" max-vertical-offset="673">
-          <folding />
-        </state>
+        <state line="147" column="4" selection-start="3840" selection-end="3840" vertical-scroll-proportion="5.0587044" vertical-offset="0" max-vertical-offset="2686" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/support/env.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/My project/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="271" column="4" selection-start="8475" selection-end="8475" vertical-scroll-proportion="0.37288135" vertical-offset="4453" max-vertical-offset="5083">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RubymineProjects/AdvLoops_1/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="196" column="37" selection-start="5833" selection-end="5833" vertical-scroll-proportion="0.33171913" vertical-offset="3195" max-vertical-offset="5117">
+        <state line="12" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/step_definitions/steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="283" column="32" selection-start="9704" selection-end="9704" vertical-scroll-proportion="-7.1538463" vertical-offset="4625" max-vertical-offset="5066">
+        <state line="365" column="0" selection-start="12623" selection-end="12623" vertical-scroll-proportion="0.0" vertical-offset="5895" max-vertical-offset="6664">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/TestPlan.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="32" selection-start="3785" selection-end="3785" vertical-scroll-proportion="0.38496584" vertical-offset="1871" max-vertical-offset="3502">
+        <state line="212" column="14" selection-start="6684" selection-end="6684" vertical-scroll-proportion="0.5240572" vertical-offset="3201" max-vertical-offset="4301">
           <folding />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
 
